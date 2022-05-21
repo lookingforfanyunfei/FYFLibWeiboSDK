@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FYFLibWeiboSDK_Tests' do
+  pod 'FYFLibWeiboSDK', :path => '../'
+  
+  
+end
