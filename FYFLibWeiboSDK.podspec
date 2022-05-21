@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FYFLibWeiboSDK'
-  s.version          = '0.1.1'
-  s.summary          = 'A short description of FYFLibWeiboSDK.'
+  s.version          = '3.3.3'
+  s.summary          = '基于新浪微博官方的SDK.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
