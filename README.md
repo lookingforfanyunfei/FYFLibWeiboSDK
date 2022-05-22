@@ -27,3 +27,7 @@ pod 'FYFLibWeiboSDK'
 ## License
 
 FYFLibWeiboSDK is available under the MIT license. See the LICENSE file for more info.
+
+## Official
+
+https://github.com/sinaweibosdk/weibo_ios_sdk
